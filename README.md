@@ -6,8 +6,8 @@ I'm passionate about cybersecurity and love tackling challenges through hands-on
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/acRei/Vulnerability-Management-Program)**
-<!--    COMMENT STARTS HERE  - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
--->
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/acRei/DISA-STIG-Remediation)**
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/acRei/threat-hunting-scenario-tor)**
