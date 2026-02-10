@@ -6,8 +6,9 @@ I'm passionate about cybersecurity and love tackling challenges through hands-on
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/acRei/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/acRei/DISA-STIG-Remediation)**
-- **[File Type Identifier ](https://github.com/acRei/File-Type-Identifier)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/acRei/DISA-STIG-Remediation)** 
+- **[File Type Identifier](https://github.com/acRei/File-Type-Identifier)**
+- **[Phishing Email Simulator](https://github.com/acRei/Phishing-Email-Simulator)**
 
 ## 🚨 Threat Hunting and Security Operations
 
