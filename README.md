@@ -12,7 +12,9 @@ I'm passionate about cybersecurity and love tackling challenges through hands-on
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/acRei/Threat-Hunt-Tor-Intallation)**
+- **[Threat Hunt: Tor Browser Usage](https://github.com/acRei/Threat-Hunt-Tor-Intallation)**
+- **[Threat Hunt: Port of Entry](https://github.com/acRei/Threat-Hunt-Port-Of-Entry)**
+- **[Threat Hunt: Cargo Hold](https://github.com/acRei/Threat-Hunt-Cargo-hold)**
 
 <hr/>
 
